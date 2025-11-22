@@ -25,6 +25,7 @@
 
 ### 📌 Projects I'm working on
 - 🎨 [Color Switcher](https://github.com/Sartaj-Kaur/color-switcher)
+- 🌈 [Theme Switcher](https://github.com/Sartaj-Kaur/theme-switcher)
 
 More coming soooon... 🚀
 
