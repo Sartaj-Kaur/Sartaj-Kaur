@@ -1,38 +1,44 @@
-# Hi, I'm Sartaj 👋
+<h2 align="center">✨ Heyy! I'm <strong>Sartaj</strong> 👋</h2>
 
+<p align="center">
 🎓 B.E. CSE (AI & ML) Student  
-🔍 Exploring Data Science & Applied AI  
-💻 Building my foundation in Python & Web Development  
+💡 Learning Python, Frontend & Applied AI  
+🌈 Finding joy in building cute + smart things on the web ✨  
+</p>
 
 ---
 
-### 🧠 Current Focus
-- Python programming
-- HTML, CSS & JavaScript fundamentals
-- AI/ML concepts and real-world applications
+### 🧠 What I'm Learning Right Now
+- Python (my main bestie 🐍✨)
+- HTML • CSS • JavaScript
+- Basic AI & Machine Learning concepts 🤖
 
 ---
 
-### 🎯 Goals
-- Strengthen software development skills
-- Work on projects involving AI & Data Science
-- Collaborate in tech communities and teams
+### 🌟 Goals for 2025
+✔ Build more frontend projects  
+✔ Learn Data Science tools  
+✔ Explore AI in real-life applications 🔍  
+✔ Start contributing to open-source 🌍  
 
 ---
 
-### 📌 Projects
-- [Color Switcher](https://github.com/Sartaj-Kaur/color-switcher)
+### 📌 Projects I'm working on
+- 🎨 [Color Switcher](https://github.com/Sartaj-Kaur/color-switcher)
 
-More projects coming soon 🚀
-
----
-
-### ✨ A little about me
-- Curious learner & improving every day
-- Passionate about tech that makes real impact
-- Love blending logic with creativity
+More coming soooon... 🚀
 
 ---
 
-📫 Reach me on GitHub — always happy to connect!
+### 💖 Fun About Me
+- I love learning and making things *look* pretty 🌸
+- Tech + Creativity = my happy place ✨
+- Always curious, always improving 📈
+
+---
+
+<p align="center">
+Thanks for visiting! ⭐  
+Let’s grow & glow together 💫  
+</p>
 
