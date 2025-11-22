@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Sartaj 👋
 
-<!--
-**Sartaj-Kaur/Sartaj-Kaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. CSE (AI & ML) Student  
+🔍 Exploring Data Science & Applied AI  
+💻 Building my foundation in Python & Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Current Focus
+- Python programming
+- HTML, CSS & JavaScript fundamentals
+- AI/ML concepts and real-world applications
+
+---
+
+### 🎯 Goals
+- Strengthen software development skills
+- Work on projects involving AI & Data Science
+- Collaborate in tech communities and teams
+
+---
+
+### 📌 Projects
+- [Color Switcher](https://github.com/Sartaj-Kaur/color-switcher)
+
+More projects coming soon 🚀
+
+---
+
+### ✨ A little about me
+- Curious learner & improving every day
+- Passionate about tech that makes real impact
+- Love blending logic with creativity
+
+---
+
+📫 Reach me on GitHub — always happy to connect!
+
